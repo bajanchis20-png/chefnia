@@ -22,10 +22,10 @@
     <div class="relative z-10 text-center flex flex-col items-center w-full px-6">
         
         <h1 class="text-4xl md:text-6xl font-bold text-white uppercase tracking-[0.2em] mb-4">
-            ChefNia
+            NChef
         </h1>
         <p class="text-[10px] md:text-[12px] text-zinc-300 uppercase tracking-[0.4em] font-medium mb-12 max-w-sm">
-            Alta cocina en la intimidad de tu espacio.
+           Privacidad absoluta, excelencia absoluta. Alta cocina en tu mesa.
         </p>
         
         <!-- Botones: Flex-col en móvil, Row en escritorio -->
@@ -46,12 +46,32 @@
 </section>
 
 <section class="py-20 md:py-24 bg-[#0a0a0a] px-6">
-    <div class="max-w-3xl mx-auto text-center">
-        <h2 class="text-xl md:text-2xl font-light text-zinc-100 uppercase tracking-[0.2em] mb-8">
-            La Filosofía de ChefNia
+    <div class="max-w-4xl mx-auto text-center">
+        <!-- Título -->
+        <h2 class="text-2xl md:text-3xl font-light text-white uppercase tracking-[0.2em] mb-12">
+            La Experiencia NChef
         </h2>
-        <p class="text-zinc-400 font-light leading-relaxed text-[13px] md:text-[15px] italic">
-            "Combinamos la técnica culinaria más refinada con ingredientes locales para ofrecerte una experiencia única,, directamente en tu propia mesa."
+
+        <!-- Filosofía principal -->
+        <p class="text-zinc-300 font-light leading-relaxed text-base md:text-lg italic mb-16 max-w-2xl mx-auto">
+            "Elevamos el producto local a su máxima expresión. Técnica, autenticidad y exclusividad, directo a tu mesa."
         </p>
+
+        <!-- Grid de Servicios (SEO & Conversión) -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-zinc-400">
+            <div class="border-t border-zinc-800 pt-6">
+                <h3 class="text-white font-medium mb-3">Chef Privado</h3>
+                <p class="text-[13px] leading-relaxed">Alta cocina personalizada para eventos íntimos y veladas inolvidables.</p>
+            </div>
+            <div class="border-t border-zinc-800 pt-6">
+                <h3 class="text-white font-medium mb-3">Parrilladas Premium</h3>
+                <p class="text-[13px] leading-relaxed">El ritual del fuego en su máxima expresión. Cortes seleccionados y acompañamientos de autor.</p>
+            </div>
+            <div class="border-t border-zinc-800 pt-6">
+                <h3 class="text-white font-medium mb-3">Eventos Especiales</h3>
+                <p class="text-[13px] leading-relaxed">Desde cenas privadas hasta celebraciones exclusivas en la comodidad de tu hogar.</p>
+            </div>
+        </div>
+
     </div>
 </section>
