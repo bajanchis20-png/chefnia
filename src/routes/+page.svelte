@@ -51,7 +51,7 @@
             La Filosofía de ChefNia
         </h2>
         <p class="text-zinc-400 font-light leading-relaxed text-[13px] md:text-[15px] italic">
-            "Combinamos la técnica culinaria más refinada con ingredientes locales para ofrecerte una experiencia única, directamente en tu propia mesa."
+            "Combinamos la técnica culinaria más refinada con ingredientes locales para ofrecerte una experiencia única,, directamente en tu propia mesa."
         </p>
     </div>
 </section>
